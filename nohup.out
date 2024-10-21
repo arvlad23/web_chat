@@ -1,0 +1,18 @@
+
+  ============================================================================  
+
+    ja-netfilter 2022.2.0
+
+    A javaagent framework :)
+
+    https://github.com/ja-netfilter/ja-netfilter
+
+  ============================================================================  
+
+2024-10-21 20:20:28,878 [   9073]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2024-10-21 20:20:28,893 [   9088]   WARN - #c.i.e.t.TargetBasedSdks - SDK target configuration data is absent
+2024-10-21 20:20:32,801 [  12996]   WARN - #c.i.s.ComponentManagerImpl - com.jetbrains.python.PyElementTypes <clinit> requests com.jetbrains.python.PyElementTypesFacade instance. Class initialization must not depend on services. Consider using instance of the service on-demand instead.
+2024-10-21 20:21:21,104 [  61299]   WARN - #c.i.o.a.ActionStub - ActionGroup should be registered using <group> tag: id="GitBranchesTreePopupFilterSeparatorWithText" class="git4idea.ui.branch.popup.GitBranchesTreePopupFilterSeparatorWithText"
+2024-10-21 20:21:21,565 [  61760]   WARN - #c.i.u.x.Binding - No accessors for com.intellij.toolWindow.ToolWindowLayoutStorageManagerState. This means that state class cannot be serialized properly. Please see https://jb.gg/ij-psoc
+2024-10-21 20:21:28,271 [  68466]   WARN - JetBrains UI DSL - Unsupported labeled component com.intellij.vcs.log.VcsUserEditor, label 'Author:'
+2024-10-21 20:21:49,477 [  89672]   WARN - JetBrains UI DSL - Unsupported labeled component com.intellij.vcs.log.VcsUserEditor, label 'Author:'
